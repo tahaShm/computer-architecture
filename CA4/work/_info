@@ -1,0 +1,344 @@
+m255
+K3
+13
+cModel Technology
+Z0 dH:\altera\13.0sp1
+vAdder
+Z1 !s100 H8?T7lUKjOHieToVf7ec40
+Z2 If[;AnV@P9PmS<oz_m>Wb[3
+Z3 VQ]KJ?HaSNgNLUQNbACo9[1
+Z4 dC:\Users\Taha\Desktop\tempforfour
+Z5 w1558949458
+Z6 8C:/Users/Taha/Desktop/tempforfour/adder.v
+Z7 FC:/Users/Taha/Desktop/tempforfour/adder.v
+L0 2
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|C:/Users/Taha/Desktop/tempforfour/adder.v|
+Z10 o-work work -O0
+Z11 n@adder
+Z12 !s108 1559328497.771000
+Z13 !s107 C:/Users/Taha/Desktop/tempforfour/adder.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vALU
+Z14 !s100 9XmfgMgRU?56Kz5ZjXFB32
+Z15 I8NjngG88FKlPehE?C?OLa2
+Z16 VR7ahTbKJAJM=c_D:IdP1c2
+R4
+Z17 w1558782566
+Z18 8C:/Users/Taha/Desktop/tempforfour/ALU.v
+Z19 FC:/Users/Taha/Desktop/tempforfour/ALU.v
+L0 2
+R8
+r1
+31
+Z20 !s90 -reportprogress|300|-work|work|C:/Users/Taha/Desktop/tempforfour/ALU.v|
+R10
+Z21 n@a@l@u
+Z22 !s108 1559328497.999000
+Z23 !s107 C:/Users/Taha/Desktop/tempforfour/ALU.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vComperator
+Z24 !s100 5dUh?:mIC_]MMgEHT]@@l2
+Z25 I58fNce=mW;mN1<`Xi>3F?3
+Z26 V9k>?_M`2?8R:zYXk51mh<0
+R4
+Z27 w1558949436
+Z28 8C:/Users/Taha/Desktop/tempforfour/Comperator.v
+Z29 FC:/Users/Taha/Desktop/tempforfour/Comperator.v
+L0 2
+R8
+r1
+31
+Z30 !s90 -reportprogress|300|-work|work|C:/Users/Taha/Desktop/tempforfour/Comperator.v|
+R10
+Z31 n@comperator
+Z32 !s108 1559328498.153000
+Z33 !s107 C:/Users/Taha/Desktop/tempforfour/Comperator.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vcontrol
+Z34 !s100 6gf?]M=4A9Z5>BSc>Ae[:0
+Z35 I[hLeg?d0VmVWi3RnWaMS<3
+Z36 VW9[_7hFBmATEZYmgP75e12
+R4
+Z37 w1559043268
+Z38 8C:/Users/Taha/Desktop/tempforfour/Control.v
+Z39 FC:/Users/Taha/Desktop/tempforfour/Control.v
+L0 2
+R8
+r1
+31
+Z40 !s90 -reportprogress|300|-work|work|C:/Users/Taha/Desktop/tempforfour/Control.v|
+R10
+Z41 !s108 1559328498.312000
+Z42 !s107 C:/Users/Taha/Desktop/tempforfour/Control.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vDataMem
+Z43 ILXi>b>n_dACV7HYO:WcZi3
+Z44 VflMYUz<f[hQVBnWPezB@^1
+R4
+Z45 w1559328500
+Z46 8C:/Users/Taha/Desktop/tempforfour/DataMem.v
+Z47 FC:/Users/Taha/Desktop/tempforfour/DataMem.v
+L0 2
+R8
+r1
+31
+Z48 !s90 -reportprogress|300|-work|work|C:/Users/Taha/Desktop/tempforfour/DataMem.v|
+R10
+Z49 n@data@mem
+Z50 !s100 NoWRhe81<5zN3YC3Ic7aR2
+Z51 !s108 1559328500.809000
+Z52 !s107 C:/Users/Taha/Desktop/tempforfour/DataMem.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vDatapath
+Z53 !s100 Ej77WCaC3SM7dPbU6YEi:3
+Z54 I1e58]d666feP8SV;jU?KA1
+Z55 VaGTQQMZ_Xe7:PDiA2n=N91
+R4
+Z56 w1559039211
+Z57 8C:/Users/Taha/Desktop/tempforfour/DataPath.v
+Z58 FC:/Users/Taha/Desktop/tempforfour/DataPath.v
+L0 2
+R8
+r1
+31
+Z59 !s90 -reportprogress|300|-work|work|C:/Users/Taha/Desktop/tempforfour/DataPath.v|
+R10
+Z60 n@datapath
+Z61 !s108 1559328501.112000
+Z62 !s107 C:/Users/Taha/Desktop/tempforfour/DataPath.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vEX_MEM
+Z63 !s100 Do`:4Fc[VcCRl9KM=VS2;2
+Z64 IWH7_Je:aUaf[YZe_S2l0;1
+Z65 Vd3cNnKOeX39DhT43K_=n23
+R4
+Z66 w1558874316
+Z67 8C:/Users/Taha/Desktop/tempforfour/EX_MEM.v
+Z68 FC:/Users/Taha/Desktop/tempforfour/EX_MEM.v
+L0 3
+R8
+r1
+31
+Z69 !s90 -reportprogress|300|-work|work|C:/Users/Taha/Desktop/tempforfour/EX_MEM.v|
+R10
+Z70 n@e@x_@m@e@m
+Z71 !s108 1559328501.308000
+Z72 !s107 C:/Users/Taha/Desktop/tempforfour/EX_MEM.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vExtender
+Z73 !s100 ;J47zobBH@H<C0JU^I1P^2
+Z74 IMC[<OVA6ljXY]DWogi7Ab0
+Z75 VZkz>jKo[2z2cP5=TR1^lZ3
+R4
+Z76 w1558777889
+Z77 8C:/Users/Taha/Desktop/tempforfour/Extender.v
+Z78 FC:/Users/Taha/Desktop/tempforfour/Extender.v
+L0 2
+R8
+r1
+31
+Z79 !s90 -reportprogress|300|-work|work|C:/Users/Taha/Desktop/tempforfour/Extender.v|
+R10
+Z80 n@extender
+Z81 !s108 1559328501.520000
+Z82 !s107 C:/Users/Taha/Desktop/tempforfour/Extender.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vForwardingUnit
+Z83 !s100 kiKAomEPeH9?g1U]z[kO=1
+Z84 IC4F1I1o4n1a3_c2oAUe`03
+Z85 VS;ooSfEl^T]?m^T]oai]U2
+R4
+Z86 w1558783960
+Z87 8C:/Users/Taha/Desktop/tempforfour/ForwardingUnit.v
+Z88 FC:/Users/Taha/Desktop/tempforfour/ForwardingUnit.v
+L0 2
+R8
+r1
+31
+Z89 !s90 -reportprogress|300|-work|work|C:/Users/Taha/Desktop/tempforfour/ForwardingUnit.v|
+R10
+Z90 n@forwarding@unit
+Z91 !s108 1559328501.695000
+Z92 !s107 C:/Users/Taha/Desktop/tempforfour/ForwardingUnit.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vHazardUnit
+Z93 !s100 gjcVBYOD:R`3jIYnMUZ=e0
+Z94 ICmARmImXHbL4RUd4Mk_Q82
+Z95 V7I?CHXU[LFYO7E^SHaGIW2
+R4
+Z96 w1558949604
+Z97 8C:/Users/Taha/Desktop/tempforfour/HazardUnit.v
+Z98 FC:/Users/Taha/Desktop/tempforfour/HazardUnit.v
+L0 2
+R8
+r1
+31
+Z99 !s90 -reportprogress|300|-work|work|C:/Users/Taha/Desktop/tempforfour/HazardUnit.v|
+R10
+Z100 n@hazard@unit
+Z101 !s108 1559328501.901000
+Z102 !s107 C:/Users/Taha/Desktop/tempforfour/HazardUnit.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vID_EX
+Z103 !s100 DS=gm<XJYXDd>lJ_g?@JE0
+Z104 Ie[TUfLEa38b3Xn6ANZHDc1
+Z105 VXg_ZnjV>=G>;oSUCL4aha0
+R4
+Z106 w1558875695
+Z107 8C:/Users/Taha/Desktop/tempforfour/ID_EX.v
+Z108 FC:/Users/Taha/Desktop/tempforfour/ID_EX.v
+L0 3
+R8
+r1
+31
+Z109 !s90 -reportprogress|300|-work|work|C:/Users/Taha/Desktop/tempforfour/ID_EX.v|
+R10
+Z110 n@i@d_@e@x
+Z111 !s108 1559328502.062000
+Z112 !s107 C:/Users/Taha/Desktop/tempforfour/ID_EX.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vIF_ID
+Z113 !s100 ;EPXm@WaCG1W<3XB:zLCz3
+Z114 InCE2An7LDhbi]P;h^jmH=0
+Z115 Va<mPa]``n^Ib30>fF1Zk31
+R4
+Z116 w1559031519
+Z117 8C:/Users/Taha/Desktop/tempforfour/IF_ID.v
+Z118 FC:/Users/Taha/Desktop/tempforfour/IF_ID.v
+L0 3
+R8
+r1
+31
+Z119 !s90 -reportprogress|300|-work|work|C:/Users/Taha/Desktop/tempforfour/IF_ID.v|
+R10
+Z120 n@i@f_@i@d
+Z121 !s108 1559328502.180000
+Z122 !s107 C:/Users/Taha/Desktop/tempforfour/IF_ID.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vinsMem
+Z123 IZMJJcMnie3do@Z0^;GNz:2
+Z124 V^kU9aCGf@lhF]BL[9e;^]3
+R4
+Z125 w1559328503
+Z126 8C:/Users/Taha/Desktop/tempforfour/InsMem.v
+Z127 FC:/Users/Taha/Desktop/tempforfour/InsMem.v
+L0 2
+R8
+r1
+31
+Z128 !s90 -reportprogress|300|-work|work|C:/Users/Taha/Desktop/tempforfour/InsMem.v|
+R10
+Z129 nins@mem
+Z130 !s100 nl]X>d]NM0BoOcWK>5O2_1
+Z131 !s108 1559328503.695000
+Z132 !s107 C:/Users/Taha/Desktop/tempforfour/InsMem.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMEM_WB
+Z133 !s100 MdOf90^l2@K[QT<EZ8ddY2
+Z134 I06j563OjX?AFN=J7[kS;n2
+Z135 V;X:iHRfNekToiE:[n;8?J1
+R4
+Z136 w1558951423
+Z137 8C:/Users/Taha/Desktop/tempforfour/MEM_WB.v
+Z138 FC:/Users/Taha/Desktop/tempforfour/MEM_WB.v
+L0 3
+R8
+r1
+31
+Z139 !s90 -reportprogress|300|-work|work|C:/Users/Taha/Desktop/tempforfour/MEM_WB.v|
+R10
+Z140 n@m@e@m_@w@b
+Z141 !s108 1559328503.824000
+Z142 !s107 C:/Users/Taha/Desktop/tempforfour/MEM_WB.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vPcReg
+Z143 !s100 cYoh4YeR]DF=4]lH;HiEd1
+Z144 ISTFA?e]e_R<zIdgonnQIA2
+Z145 VAFSgN<h4L^n8zll[8i8n;0
+R4
+Z146 w1558776879
+Z147 8C:/Users/Taha/Desktop/tempforfour/Pc.v
+Z148 FC:/Users/Taha/Desktop/tempforfour/Pc.v
+L0 2
+R8
+r1
+31
+Z149 !s90 -reportprogress|300|-work|work|C:/Users/Taha/Desktop/tempforfour/Pc.v|
+R10
+Z150 n@pc@reg
+Z151 !s108 1559328504.020000
+Z152 !s107 C:/Users/Taha/Desktop/tempforfour/Pc.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vregFile
+Z153 !s100 FZE86^flF1L1nImYH>2:K2
+Z154 IHEUD47ZB9E@nS:a056iLE1
+Z155 VS[:b^4;>FAIL6Ac2FWaQY3
+R4
+Z156 w1558949866
+Z157 8C:/Users/Taha/Desktop/tempforfour/RegFile.v
+Z158 FC:/Users/Taha/Desktop/tempforfour/RegFile.v
+L0 2
+R8
+r1
+31
+Z159 !s90 -reportprogress|300|-work|work|C:/Users/Taha/Desktop/tempforfour/RegFile.v|
+R10
+Z160 nreg@file
+!i10b 1
+!s85 0
+Z161 !s108 1559328504.188000
+Z162 !s107 C:/Users/Taha/Desktop/tempforfour/RegFile.v|
+!s101 -O0
+vTB
+!i10b 1
+Z163 !s100 n1QzIJdfJ3Hm1mSj?Q=jM1
+Z164 IIf99WPaQ]>V6LV]ez1mS03
+Z165 Vc<=32996OT2f`M7E_UhYX1
+R4
+Z166 w1559038811
+Z167 8C:/Users/Taha/Desktop/tempforfour/TB.v
+Z168 FC:/Users/Taha/Desktop/tempforfour/TB.v
+L0 2
+R8
+r1
+!s85 0
+31
+!s108 1559328504.340000
+!s107 C:/Users/Taha/Desktop/tempforfour/TB.v|
+Z169 !s90 -reportprogress|300|-work|work|C:/Users/Taha/Desktop/tempforfour/TB.v|
+!s101 -O0
+R10
+n@t@b

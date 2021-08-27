@@ -1,0 +1,260 @@
+m255
+K3
+13
+cModel Technology
+Z0 dH:\altera\13.0sp1
+vadderSubtractor
+Z1 !s100 M5^_CHF1m;ZGQAiVDCAJn2
+Z2 ImO`B3eb6nbKlY9W95cWan0
+Z3 Vlf8KR:7<2[Pjm=ZOWk_`c3
+Z4 dC:\Users\Taha\Desktop\Desktop\ARCH1
+Z5 w1552231878
+Z6 8C:/Users/Taha/Desktop/Desktop/ARCH1/adderSubtractor.v
+Z7 FC:/Users/Taha/Desktop/Desktop/ARCH1/adderSubtractor.v
+L0 2
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|C:/Users/Taha/Desktop/Desktop/ARCH1/adderSubtractor.v|
+Z10 o-work work -O0
+Z11 nadder@subtractor
+Z12 !s108 1552243620.831000
+Z13 !s107 C:/Users/Taha/Desktop/Desktop/ARCH1/adderSubtractor.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vCA1
+Z14 I^XgA@e^6lNHKCc?Y:XoON3
+Z15 VhB0iS_kHdLfMB@Be8bjon2
+R4
+Z16 w1552243610
+Z17 8C:/Users/Taha/Desktop/Desktop/ARCH1/ca1.v
+Z18 FC:/Users/Taha/Desktop/Desktop/ARCH1/ca1.v
+L0 2
+R8
+r1
+31
+Z19 !s90 -reportprogress|300|-work|work|C:/Users/Taha/Desktop/Desktop/ARCH1/ca1.v|
+R10
+Z20 n@c@a1
+Z21 !s100 aIzb@nWKZD;C][gII`HKh1
+Z22 !s108 1552243621.421000
+Z23 !s107 C:/Users/Taha/Desktop/Desktop/ARCH1/ca1.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vcontrol
+Z24 !s100 1oZa^^>jFPK2g@UFB`mmB0
+Z25 IZ?fG319]eCKO@2Z^d6SkB0
+Z26 V[oRVB^RdE^b:z?me69KUJ2
+R4
+Z27 w1552243452
+Z28 8C:/Users/Taha/Desktop/Desktop/ARCH1/controller.v
+Z29 FC:/Users/Taha/Desktop/Desktop/ARCH1/controller.v
+L0 2
+R8
+r1
+31
+Z30 !s90 -reportprogress|300|-work|work|C:/Users/Taha/Desktop/Desktop/ARCH1/controller.v|
+R10
+Z31 !s108 1552243620.601000
+Z32 !s107 C:/Users/Taha/Desktop/Desktop/ARCH1/controller.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vdataPath
+Z33 !s100 ];7S`5h>=f9;8I;]b=20k3
+Z34 I92Gf5U5U=VZ0SR4fI?K7O1
+Z35 V6RViW8VTciMM9n_3Bd8Vi0
+R4
+Z36 w1552243491
+Z37 8C:/Users/Taha/Desktop/Desktop/ARCH1/datapath.v
+Z38 FC:/Users/Taha/Desktop/Desktop/ARCH1/datapath.v
+L0 2
+R8
+r1
+31
+Z39 !s90 -reportprogress|300|-work|work|C:/Users/Taha/Desktop/Desktop/ARCH1/datapath.v|
+R10
+Z40 ndata@path
+Z41 !s108 1552243620.384000
+Z42 !s107 C:/Users/Taha/Desktop/Desktop/ARCH1/datapath.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vliRegister
+Z43 !s100 ia4nnN?NiFgUNZCW4XK?f3
+Z44 I6[FWcD[ABY24k[n3f2BS`3
+Z45 VY^^5QGf[YU_XH5m?P4;g^1
+R4
+Z46 w1552203413
+Z47 8C:/Users/Taha/Desktop/Desktop/ARCH1/RegLI.v
+Z48 FC:/Users/Taha/Desktop/Desktop/ARCH1/RegLI.v
+L0 2
+R8
+r1
+31
+Z49 !s90 -reportprogress|300|-work|work|C:/Users/Taha/Desktop/Desktop/ARCH1/RegLI.v|
+R10
+Z50 nli@register
+Z51 !s108 1552243620.014000
+Z52 !s107 C:/Users/Taha/Desktop/Desktop/ARCH1/RegLI.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vlRegister
+Z53 !s100 NWbd<e@oCUR1gzQgMLWZn3
+Z54 IkE[Mnbj^LQVk0CkR=`1VW1
+Z55 V:Z@;]7L6cOcd<MnoFl]>c3
+R4
+Z56 w1552203397
+Z57 8C:/Users/Taha/Desktop/Desktop/ARCH1/RegL.v
+Z58 FC:/Users/Taha/Desktop/Desktop/ARCH1/RegL.v
+L0 2
+R8
+r1
+31
+Z59 !s90 -reportprogress|300|-work|work|C:/Users/Taha/Desktop/Desktop/ARCH1/RegL.v|
+R10
+Z60 nl@register
+Z61 !s108 1552243619.834000
+Z62 !s107 C:/Users/Taha/Desktop/Desktop/ARCH1/RegL.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmultiplier1
+Z63 !s100 _IXa[Di1UK7l`UG1<kV1I3
+Z64 Id`4nI7JDj=SF:B>0WaBhV0
+Z65 VS26[iDGG_G>]SolCDJUj?3
+R4
+Z66 w1552118650
+Z67 8C:/Users/Taha/Desktop/Desktop/ARCH1/multiplier1.v
+Z68 FC:/Users/Taha/Desktop/Desktop/ARCH1/multiplier1.v
+L0 2
+R8
+r1
+31
+Z69 !s90 -reportprogress|300|-work|work|C:/Users/Taha/Desktop/Desktop/ARCH1/multiplier1.v|
+R10
+Z70 !s108 1552243621.037000
+Z71 !s107 C:/Users/Taha/Desktop/Desktop/ARCH1/multiplier1.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmultiplier2
+Z72 !s100 AKkAHf3OD=zbD[a>9KeYZ0
+Z73 IfETGf;25kQ1i[PHz<cldJ1
+Z74 VMO1eViY4k3G;NcgI49=@<0
+R4
+Z75 w1552227796
+Z76 8C:/Users/Taha/Desktop/Desktop/ARCH1/multiplier2.v
+Z77 FC:/Users/Taha/Desktop/Desktop/ARCH1/multiplier2.v
+L0 2
+R8
+r1
+31
+Z78 !s90 -reportprogress|300|-work|work|C:/Users/Taha/Desktop/Desktop/ARCH1/multiplier2.v|
+R10
+Z79 !s108 1552243621.227000
+Z80 !s107 C:/Users/Taha/Desktop/Desktop/ARCH1/multiplier2.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmux21
+Z81 !s100 UCXYa89nb6W0WcN@X44WB2
+Z82 I?di^[dOj@SAU<aj@bCg5e0
+Z83 VLJ=[cc0?0NL;6@=P9]1Rj3
+R4
+Z84 w1552118598
+Z85 8C:/Users/Taha/Desktop/Desktop/ARCH1/mux2to1.v
+Z86 FC:/Users/Taha/Desktop/Desktop/ARCH1/mux2to1.v
+L0 2
+R8
+r1
+31
+Z87 !s90 -reportprogress|300|-work|work|C:/Users/Taha/Desktop/Desktop/ARCH1/mux2to1.v|
+R10
+Z88 !s108 1552243619.475000
+Z89 !s107 C:/Users/Taha/Desktop/Desktop/ARCH1/mux2to1.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmux31
+Z90 !s100 9ZMC=5EoaM`HFl5S@h1c`2
+Z91 ICd@Og1U5Q`2jB?8e2d_183
+Z92 VHEclj44aWn?70:?GF?SHC0
+R4
+Z93 w1552128644
+Z94 8C:/Users/Taha/Desktop/Desktop/ARCH1/mux3to1.v
+Z95 FC:/Users/Taha/Desktop/Desktop/ARCH1/mux3to1.v
+L0 2
+R8
+r1
+31
+Z96 !s90 -reportprogress|300|-work|work|C:/Users/Taha/Desktop/Desktop/ARCH1/mux3to1.v|
+R10
+Z97 !s108 1552243619.623000
+Z98 !s107 C:/Users/Taha/Desktop/Desktop/ARCH1/mux3to1.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vNeqReg
+Z99 !s100 SB58z`c6RXMe<O7C6EPXi1
+Z100 ICEXB6J1W=jF>aCLCRfhCL2
+Z101 VLFE4ogeKHE`2Bh9:Az`722
+R4
+Z102 w1552203430
+Z103 8C:/Users/Taha/Desktop/Desktop/ARCH1/NeqReg.v
+Z104 FC:/Users/Taha/Desktop/Desktop/ARCH1/NeqReg.v
+L0 2
+R8
+r1
+31
+Z105 !s90 -reportprogress|300|-work|work|C:/Users/Taha/Desktop/Desktop/ARCH1/NeqReg.v|
+R10
+Z106 n@neq@reg
+Z107 !s108 1552243620.221000
+Z108 !s107 C:/Users/Taha/Desktop/Desktop/ARCH1/NeqReg.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vTB
+Z109 !s100 >Y@B=A@7>Lc`P27H5;Z;Z3
+Z110 IA?fzg?TaWI?^h@O2dPfD71
+Z111 Vc<=32996OT2f`M7E_UhYX1
+R4
+Z112 w1552243431
+Z113 8C:/Users/Taha/Desktop/Desktop/ARCH1/TB.v
+Z114 FC:/Users/Taha/Desktop/Desktop/ARCH1/TB.v
+L0 2
+R8
+r1
+31
+Z115 !s90 -reportprogress|300|-work|work|C:/Users/Taha/Desktop/Desktop/ARCH1/TB.v|
+R10
+n@t@b
+!i10b 1
+!s85 0
+Z116 !s108 1552243621.564000
+Z117 !s107 C:/Users/Taha/Desktop/Desktop/ARCH1/TB.v|
+!s101 -O0
+vTester
+!i10b 1
+Z118 !s100 VcAlgfFbz60Obk9=FADY91
+Z119 I^6O;jkX:GfL@:?edXWZo40
+Z120 V`zQh`?00IXoHl3_:;i?N13
+R4
+Z121 w1552203450
+Z122 8C:/Users/Taha/Desktop/Desktop/ARCH1/tester.v
+Z123 FC:/Users/Taha/Desktop/Desktop/ARCH1/tester.v
+L0 2
+R8
+r1
+!s85 0
+31
+!s108 1552243621.768000
+!s107 C:/Users/Taha/Desktop/Desktop/ARCH1/tester.v|
+Z124 !s90 -reportprogress|300|-work|work|C:/Users/Taha/Desktop/Desktop/ARCH1/tester.v|
+!s101 -O0
+R10
+Z125 n@tester

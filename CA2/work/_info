@@ -1,0 +1,242 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Taha\Desktop
+vadder
+Z1 I;j>Mi7?m]V`A3D@=<<MB?1
+Z2 V7=MJFYe2g[8RKf9=KK<OB3
+Z3 dC:\Users\Taha\Desktop\CA2
+Z4 w1555149471
+Z5 8C:/Users/Taha/Desktop/CA2/Adder.v
+Z6 FC:/Users/Taha/Desktop/CA2/Adder.v
+L0 2
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 o-work work -O0
+Z9 !s100 A?SHakoB<7bGCLTlcg74h3
+Z10 !s108 1555261904.239000
+Z11 !s107 C:/Users/Taha/Desktop/CA2/Adder.v|
+Z12 !s90 -reportprogress|300|-work|work|C:/Users/Taha/Desktop/CA2/Adder.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vALU
+Z13 IEJ>QH5D[5C24WoBJ9:3HF2
+Z14 VNCG?LE5HaeZf2`m_:>EDU3
+R3
+Z15 w1555155214
+Z16 8C:/Users/Taha/Desktop/CA2/ALU.v
+Z17 FC:/Users/Taha/Desktop/CA2/ALU.v
+L0 2
+R7
+r1
+31
+R8
+Z18 n@a@l@u
+Z19 !s100 H175han18iUgg=MhGkD8@0
+Z20 !s108 1555261904.304000
+Z21 !s107 C:/Users/Taha/Desktop/CA2/ALU.v|
+Z22 !s90 -reportprogress|300|-work|work|C:/Users/Taha/Desktop/CA2/ALU.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vcontroller
+Z23 I5^i6iEhoZDkNg2JJL3Q0H1
+Z24 VUA0:cmYR@;U<c>0OaY30O0
+R3
+Z25 w1555257820
+Z26 8C:/Users/Taha/Desktop/CA2/control.v
+Z27 FC:/Users/Taha/Desktop/CA2/control.v
+L0 1
+R7
+r1
+31
+R8
+Z28 !s100 XI5GoVFigE4M22nMVMD3:3
+Z29 !s108 1555261904.670000
+Z30 !s107 C:/Users/Taha/Desktop/CA2/control.v|
+Z31 !s90 -reportprogress|300|-work|work|C:/Users/Taha/Desktop/CA2/control.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vDataMem
+Z32 I<M?]B5jHiG09c`DjVJ9Pj3
+Z33 VZFR@`kCfAGUR4<771NY9K2
+R3
+Z34 w1555260584
+Z35 8C:/Users/Taha/Desktop/CA2/DataMem.v
+Z36 FC:/Users/Taha/Desktop/CA2/DataMem.v
+L0 2
+R7
+r1
+31
+R8
+Z37 n@data@mem
+Z38 !s100 W^RE91aUmn3UzK2NTmja?3
+Z39 !s108 1555261904.752000
+Z40 !s107 C:/Users/Taha/Desktop/CA2/DataMem.v|
+Z41 !s90 -reportprogress|300|-work|work|C:/Users/Taha/Desktop/CA2/DataMem.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vdataPath
+Z42 ISnW9C:Y@kQzO`iXzmSd251
+Z43 V1Ej0oF_2F4YJ0<^iIh8Jm0
+R3
+Z44 w1555155223
+Z45 8C:/Users/Taha/Desktop/CA2/DataPath.v
+Z46 FC:/Users/Taha/Desktop/CA2/DataPath.v
+L0 2
+R7
+r1
+31
+R8
+Z47 ndata@path
+Z48 !s100 dU>fX=7W2mmzbl[=m_k5[3
+Z49 !s108 1555261904.844000
+Z50 !s107 C:/Users/Taha/Desktop/CA2/DataPath.v|
+Z51 !s90 -reportprogress|300|-work|work|C:/Users/Taha/Desktop/CA2/DataPath.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vinsMem
+Z52 IYinfn?SV9XhGHh3VbllL<0
+Z53 V^`LBP4HeMleD6GPoTne7z1
+R3
+Z54 w1555261686
+Z55 8C:/Users/Taha/Desktop/CA2/InsMem.v
+Z56 FC:/Users/Taha/Desktop/CA2/InsMem.v
+L0 2
+R7
+r1
+31
+R8
+Z57 nins@mem
+Z58 !s100 1LGG1WNe81POAXj5SZ7AO2
+Z59 !s108 1555261904.936000
+Z60 !s107 C:/Users/Taha/Desktop/CA2/InsMem.v|
+Z61 !s90 -reportprogress|300|-work|work|C:/Users/Taha/Desktop/CA2/InsMem.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmux21
+Z62 I4709Fl>nKGF<LBN=b[Cz>3
+Z63 V:KSgOflW>?nmD]MhnOmAa1
+R3
+Z64 w1555149261
+Z65 8C:/Users/Taha/Desktop/CA2/mux2to1.v
+Z66 FC:/Users/Taha/Desktop/CA2/mux2to1.v
+L0 2
+R7
+r1
+31
+R8
+Z67 !s100 U6KOoL<[^jGlljVn[77;a3
+Z68 !s108 1555261905.019000
+Z69 !s107 C:/Users/Taha/Desktop/CA2/mux2to1.v|
+Z70 !s90 -reportprogress|300|-work|work|C:/Users/Taha/Desktop/CA2/mux2to1.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vPcReg
+Z71 IPHag>;QVLKz0>e:XD<ozj0
+Z72 VgdNHmVC1V5S@lk;NAHYkG3
+R3
+Z73 w1555149615
+Z74 8C:/Users/Taha/Desktop/CA2/Pc.v
+Z75 FC:/Users/Taha/Desktop/CA2/Pc.v
+L0 2
+R7
+r1
+31
+R8
+Z76 n@pc@reg
+Z77 !s100 P8Z_3bA^38A_KYFEQXTe93
+Z78 !s108 1555261905.112000
+Z79 !s107 C:/Users/Taha/Desktop/CA2/Pc.v|
+Z80 !s90 -reportprogress|300|-work|work|C:/Users/Taha/Desktop/CA2/Pc.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vregFile
+Z81 ICgP8KTCe4hK^WNPYm`BB11
+Z82 V:M`kQIeYhhJYi2WZ^Ni]m0
+R3
+Z83 w1555163706
+Z84 8C:/Users/Taha/Desktop/CA2/RegFile.v
+Z85 FC:/Users/Taha/Desktop/CA2/RegFile.v
+L0 2
+R7
+r1
+31
+R8
+Z86 nreg@file
+Z87 !s100 DMABKTZZW?n`XODjhJLYD1
+Z88 !s108 1555261905.195000
+Z89 !s107 C:/Users/Taha/Desktop/CA2/RegFile.v|
+Z90 !s90 -reportprogress|300|-work|work|C:/Users/Taha/Desktop/CA2/RegFile.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vsignExtender
+Z91 Ib1;ec>fMESZQfFOETL>Ag2
+Z92 VG@3ehVgW[fA[c1DFYMNfK2
+R3
+Z93 w1555132426
+Z94 8C:/Users/Taha/Desktop/CA2/SignExtender.v
+Z95 FC:/Users/Taha/Desktop/CA2/SignExtender.v
+L0 2
+R7
+r1
+31
+R8
+Z96 nsign@extender
+Z97 !s100 4567annTFb2EahV]O9<IQ2
+Z98 !s108 1555261905.273000
+Z99 !s107 C:/Users/Taha/Desktop/CA2/SignExtender.v|
+Z100 !s90 -reportprogress|300|-work|work|C:/Users/Taha/Desktop/CA2/SignExtender.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vTB
+Z101 I@l5aM7Qd1_2MI[cl9jkW[3
+Z102 Vc<=32996OT2f`M7E_UhYX1
+R3
+Z103 w1555258092
+Z104 8C:/Users/Taha/Desktop/CA2/TB.v
+Z105 FC:/Users/Taha/Desktop/CA2/TB.v
+L0 2
+R7
+r1
+31
+R8
+n@t@b
+!i10b 1
+Z106 !s100 V[@FgCObU9e3VnIIo;V9e2
+!s85 0
+Z107 !s108 1555261905.379000
+Z108 !s107 C:/Users/Taha/Desktop/CA2/TB.v|
+Z109 !s90 -reportprogress|300|-work|work|C:/Users/Taha/Desktop/CA2/TB.v|
+!s101 -O0
+vwndReg
+!i10b 1
+!s100 XjCPcfgfgBELz@KiA>zAo3
+Io1@KncV>LEX<g2;TGk9Eg1
+VI5j<7D[oWQKDIESQ572c]1
+R3
+w1555155130
+8C:/Users/Taha/Desktop/CA2/WndReg.v
+FC:/Users/Taha/Desktop/CA2/WndReg.v
+L0 2
+R7
+r1
+!s85 0
+31
+!s108 1555261905.485000
+!s107 C:/Users/Taha/Desktop/CA2/WndReg.v|
+!s90 -reportprogress|300|-work|work|C:/Users/Taha/Desktop/CA2/WndReg.v|
+!s101 -O0
+R8
+nwnd@reg

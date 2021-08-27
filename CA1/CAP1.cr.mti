@@ -1,0 +1,92 @@
+C:/Users/Taha/Desktop/Desktop/ARCH1/RegLI.v {1 {vlog -work work C:/Users/Taha/Desktop/Desktop/ARCH1/RegLI.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module liRegister
+
+Top level modules:
+	liRegister
+
+} {} {}} C:/Users/Taha/Desktop/Desktop/ARCH1/ca1.v {1 {vlog -work work C:/Users/Taha/Desktop/Desktop/ARCH1/ca1.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module CA1
+
+Top level modules:
+	CA1
+
+} {} {}} C:/Users/Taha/Desktop/Desktop/ARCH1/mux2to1.v {1 {vlog -work work C:/Users/Taha/Desktop/Desktop/ARCH1/mux2to1.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module mux21
+
+Top level modules:
+	mux21
+
+} {} {}} C:/Users/Taha/Desktop/Desktop/ARCH1/NeqReg.v {1 {vlog -work work C:/Users/Taha/Desktop/Desktop/ARCH1/NeqReg.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module NeqReg
+
+Top level modules:
+	NeqReg
+
+} {} {}} C:/Users/Taha/Desktop/Desktop/ARCH1/RegL.v {1 {vlog -work work C:/Users/Taha/Desktop/Desktop/ARCH1/RegL.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module lRegister
+
+Top level modules:
+	lRegister
+
+} {} {}} C:/Users/Taha/Desktop/Desktop/ARCH1/controller.v {1 {vlog -work work C:/Users/Taha/Desktop/Desktop/ARCH1/controller.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module control
+
+Top level modules:
+	control
+
+} {} {}} C:/Users/Taha/Desktop/Desktop/ARCH1/TB.v {1 {vlog -work work C:/Users/Taha/Desktop/Desktop/ARCH1/TB.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module TB
+
+Top level modules:
+	TB
+
+} {} {}} C:/Users/Taha/Desktop/Desktop/ARCH1/datapath.v {1 {vlog -work work C:/Users/Taha/Desktop/Desktop/ARCH1/datapath.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module dataPath
+
+Top level modules:
+	dataPath
+
+} {} {}} C:/Users/Taha/Desktop/Desktop/ARCH1/tester.v {1 {vlog -work work C:/Users/Taha/Desktop/Desktop/ARCH1/tester.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Tester
+
+Top level modules:
+	Tester
+
+} {} {}} C:/Users/Taha/Desktop/Desktop/ARCH1/multiplier1.v {1 {vlog -work work C:/Users/Taha/Desktop/Desktop/ARCH1/multiplier1.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module multiplier1
+
+Top level modules:
+	multiplier1
+
+} {} {}} C:/Users/Taha/Desktop/Desktop/ARCH1/mux3to1.v {1 {vlog -work work C:/Users/Taha/Desktop/Desktop/ARCH1/mux3to1.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module mux31
+
+Top level modules:
+	mux31
+
+} {} {}} C:/Users/Taha/Desktop/Desktop/ARCH1/adderSubtractor.v {1 {vlog -work work C:/Users/Taha/Desktop/Desktop/ARCH1/adderSubtractor.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module adderSubtractor
+
+Top level modules:
+	adderSubtractor
+
+} {} {}} C:/Users/Taha/Desktop/Desktop/ARCH1/multiplier2.v {1 {vlog -work work C:/Users/Taha/Desktop/Desktop/ARCH1/multiplier2.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module multiplier2
+
+Top level modules:
+	multiplier2
+
+} {} {}}

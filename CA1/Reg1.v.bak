@@ -1,0 +1,11 @@
+`timescale 1ns/1ns
+module lRegister #(parameter n = 6)(clk, rst, load, out);
+  input clk,rst;
+  input [n:0] x;
+  input load;
+  output reg[n:0] out;
+  always@(posedge clk, posedge rst)begin
+    if (rst) out <= 0;
+    else if (load) out <= x;
+  end
+endmodule

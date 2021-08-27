@@ -1,0 +1,30 @@
+`timescale 1ns/1ns
+module insMem (address, instruction);
+  input [31:0] address;
+  output [31:0] instruction;
+  reg [31:0] iMemory [0:4095];
+  assign instruction = iMemory[address[11:0]];
+  initial begin
+    iMemory[0] = 32'b10001100000000010000000000000001; //lw R1 = address 1
+    iMemory[1] = 32'b10001100000000100000000000000010; //lw R2 = address 2
+    iMemory[2] = 32'b10001100000000110000000000000011; //lw R3 = address 3
+    iMemory[3] = 32'b10001100000001000000000000000101; //lw R4 = address 5
+    iMemory[4] = 32'b10001100000001110000000000000001; //lw R7 = address 1
+    iMemory[5] = 32'b00000000111000100101000000100000; // R10 = R7 + R2
+    iMemory[6] = 32'b00000001010001110100100000100000; // R9 = R10 + R7
+    iMemory[7] = 32'b10001100000001000000000000000001; // lw R4 = address 1
+    iMemory[8] = 32'b00000000000000000000000000000000; //nop
+    iMemory[9] = 32'b00000000000000000000000000000000; //nop
+    iMemory[10] = 32'b00010000001001000000000000001010; // beq R1, R4, 10
+    // iMemory[7] = 32'b00000000001000100100000000100000; // R8 = R1 + R2
+    // iMemory[8] = 32'b00000000001000100100100000100000; // R9 = R1 + R2
+    
+   
+  end
+endmodule
+
+
+
+
+
+

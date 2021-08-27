@@ -1,0 +1,24 @@
+`timescale 1ns/1ns
+module TB();
+  reg clk = 0;
+  reg [14:0] address = 0;
+  wire hit, miss, write, read, done;
+  wire [14:0] modAdr, counter, hitCounter;
+  wire [31:0] data1, data2, data3, data4, out;
+
+  Cache cModule (clk, address, data1, data2, data3, data4, write, modAdr, hit, miss, out);
+  mainMem mmModule (read, modAdr, done, data1, data2, data3, data4);
+  control cu (clk, hit, miss, done, hitCounter, counter, write, read);
+
+  always #10 clk = ~clk;
+
+  initial begin
+    #20
+    address = 0;
+    #20
+    address = 4;
+    #1000
+    $stop;
+  end
+
+endmodule

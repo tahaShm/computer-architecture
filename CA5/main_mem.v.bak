@@ -1,0 +1,26 @@
+`timescale 1ns/1ns
+module mainMem(read, modAdr, done, data1, data2, data3, data4);
+  input read;
+  input [14:0] modAdr;
+  output [31:0] data1,data2,data3,data4;
+  output done;
+  reg [31:0] Memory [32767:0];
+
+  initial begin
+    Memory[0] = 0;
+    Memory[1] = 2;
+    Memory[2] = 4;
+    Memory[3] = 6;
+    Memory[4] = 8;
+    Memory[5] = 10;
+    Memory[6] = 12;
+    Memory[7] = 14;
+  end
+
+  assign #100 data1 = (read == 1) ? Memory[modAdr] : 0;
+  assign #100 data2 = (read == 1) ? Memory[modAdr + 1] : 0;
+  assign #100 data3 = (read == 1) ? Memory[modAdr + 2] : 0;
+  assign #100 data4 = (read == 1) ? Memory[modAdr + 3] : 0;
+  assign #100 done = 1;
+endmodule
+

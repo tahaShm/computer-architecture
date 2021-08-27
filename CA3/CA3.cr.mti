@@ -1,0 +1,106 @@
+C:/Users/Taha/Desktop/CA3/ZeroReg.v {1 {vlog -work work C:/Users/Taha/Desktop/CA3/ZeroReg.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ZeroReg
+
+Top level modules:
+	ZeroReg
+
+} {} {}} C:/Users/Taha/Desktop/CA3/Reg.v {1 {vlog -work work C:/Users/Taha/Desktop/CA3/Reg.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Reg
+
+Top level modules:
+	Reg
+
+} {} {}} C:/Users/Taha/Desktop/CA3/ZeroExtender.v {1 {vlog -work work C:/Users/Taha/Desktop/CA3/ZeroExtender.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ZeroExtender
+
+Top level modules:
+	ZeroExtender
+
+} {} {}} C:/Users/Taha/Desktop/CA3/MdrReg.v {1 {vlog -work work C:/Users/Taha/Desktop/CA3/MdrReg.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MdrReg
+
+Top level modules:
+	MdrReg
+
+} {} {}} C:/Users/Taha/Desktop/CA3/LReg.v {1 {vlog -work work C:/Users/Taha/Desktop/CA3/LReg.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module LReg
+
+Top level modules:
+	LReg
+
+} {} {}} C:/Users/Taha/Desktop/CA3/Pc.v {1 {vlog -work work C:/Users/Taha/Desktop/CA3/Pc.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module PcReg
+
+Top level modules:
+	PcReg
+
+} {} {}} C:/Users/Taha/Desktop/CA3/Controller.v {1 {vlog -work work C:/Users/Taha/Desktop/CA3/Controller.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module control
+
+Top level modules:
+	control
+
+} {} {}} C:/Users/Taha/Desktop/CA3/Stack.v {1 {vlog -work work C:/Users/Taha/Desktop/CA3/Stack.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Stack
+
+Top level modules:
+	Stack
+
+} {} {}} C:/Users/Taha/Desktop/CA3/TB.v {1 {vlog -work work C:/Users/Taha/Desktop/CA3/TB.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module TB
+
+Top level modules:
+	TB
+
+} {} {}} C:/Users/Taha/Desktop/CA3/Datapath.v {1 {vlog -work work C:/Users/Taha/Desktop/CA3/Datapath.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module DataPath
+
+Top level modules:
+	DataPath
+
+} {} {}} C:/Users/Taha/Desktop/CA3/tester.v {1 {vlog -work work C:/Users/Taha/Desktop/CA3/tester.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Tester
+
+Top level modules:
+	Tester
+
+} {} {}} C:/Users/Taha/Desktop/CA3/mux2to1.v {1 {vlog -work work C:/Users/Taha/Desktop/CA3/mux2to1.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module mux21
+
+Top level modules:
+	mux21
+
+} {} {}} C:/Users/Taha/Desktop/CA3/DataMem.v {1 {vlog -work work C:/Users/Taha/Desktop/CA3/DataMem.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module DataMem
+
+Top level modules:
+	DataMem
+
+} {} {}} C:/Users/Taha/Desktop/CA3/IrReg.v {1 {vlog -work work C:/Users/Taha/Desktop/CA3/IrReg.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module IrReg
+
+Top level modules:
+	IrReg
+
+} {} {}} C:/Users/Taha/Desktop/CA3/ALU.v {1 {vlog -work work C:/Users/Taha/Desktop/CA3/ALU.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}}

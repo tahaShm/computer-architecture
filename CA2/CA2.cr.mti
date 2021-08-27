@@ -1,0 +1,85 @@
+C:/Users/Taha/Desktop/CA2/RegFile.v {1 {vlog -work work C:/Users/Taha/Desktop/CA2/RegFile.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module regFile
+
+Top level modules:
+	regFile
+
+} {} {}} C:/Users/Taha/Desktop/CA2/TB.v {1 {vlog -work work C:/Users/Taha/Desktop/CA2/TB.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module TB
+
+Top level modules:
+	TB
+
+} {} {}} C:/Users/Taha/Desktop/CA2/DataPath.v {1 {vlog -work work C:/Users/Taha/Desktop/CA2/DataPath.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module dataPath
+
+Top level modules:
+	dataPath
+
+} {} {}} C:/Users/Taha/Desktop/CA2/WndReg.v {1 {vlog -work work C:/Users/Taha/Desktop/CA2/WndReg.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module wndReg
+
+Top level modules:
+	wndReg
+
+} {} {}} C:/Users/Taha/Desktop/CA2/Adder.v {1 {vlog -work work C:/Users/Taha/Desktop/CA2/Adder.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module adder
+
+Top level modules:
+	adder
+
+} {} {}} C:/Users/Taha/Desktop/CA2/mux2to1.v {1 {vlog -work work C:/Users/Taha/Desktop/CA2/mux2to1.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module mux21
+
+Top level modules:
+	mux21
+
+} {} {}} C:/Users/Taha/Desktop/CA2/SignExtender.v {1 {vlog -work work C:/Users/Taha/Desktop/CA2/SignExtender.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module signExtender
+
+Top level modules:
+	signExtender
+
+} {} {}} C:/Users/Taha/Desktop/CA2/control.v {1 {vlog -work work C:/Users/Taha/Desktop/CA2/control.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module controller
+
+Top level modules:
+	controller
+
+} {} {}} C:/Users/Taha/Desktop/CA2/DataMem.v {1 {vlog -work work C:/Users/Taha/Desktop/CA2/DataMem.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module DataMem
+
+Top level modules:
+	DataMem
+
+} {} {}} C:/Users/Taha/Desktop/CA2/InsMem.v {1 {vlog -work work C:/Users/Taha/Desktop/CA2/InsMem.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module insMem
+
+Top level modules:
+	insMem
+
+} {} {}} C:/Users/Taha/Desktop/CA2/ALU.v {1 {vlog -work work C:/Users/Taha/Desktop/CA2/ALU.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} C:/Users/Taha/Desktop/CA2/Pc.v {1 {vlog -work work C:/Users/Taha/Desktop/CA2/Pc.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module PcReg
+
+Top level modules:
+	PcReg
+
+} {} {}}

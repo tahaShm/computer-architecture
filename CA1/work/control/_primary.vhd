@@ -1,0 +1,65 @@
+library verilog;
+use verilog.vl_types.all;
+entity control is
+    generic(
+        idle            : vl_logic_vector(3 downto 0) := (Hi0, Hi0, Hi0, Hi0);
+        starting        : vl_logic_vector(3 downto 0) := (Hi0, Hi0, Hi0, Hi1);
+        nqstate         : vl_logic_vector(3 downto 0) := (Hi0, Hi0, Hi1, Hi0);
+        reading         : vl_logic_vector(3 downto 0) := (Hi0, Hi0, Hi1, Hi1);
+        waiting         : vl_logic_vector(3 downto 0) := (Hi0, Hi1, Hi0, Hi0);
+        reseting        : vl_logic_vector(3 downto 0) := (Hi0, Hi1, Hi0, Hi1);
+        firstx          : vl_logic_vector(3 downto 0) := (Hi0, Hi1, Hi1, Hi0);
+        secx            : vl_logic_vector(3 downto 0) := (Hi0, Hi1, Hi1, Hi1);
+        addb            : vl_logic_vector(3 downto 0) := (Hi1, Hi0, Hi0, Hi0);
+        check           : vl_logic_vector(3 downto 0) := (Hi1, Hi0, Hi0, Hi1);
+        firstupt        : vl_logic_vector(3 downto 0) := (Hi1, Hi0, Hi1, Hi0);
+        secupt          : vl_logic_vector(3 downto 0) := (Hi1, Hi0, Hi1, Hi1);
+        uptb            : vl_logic_vector(3 downto 0) := (Hi1, Hi1, Hi0, Hi0)
+    );
+    port(
+        start           : in     vl_logic;
+        clk             : in     vl_logic;
+        rst             : in     vl_logic;
+        EOF             : in     vl_logic;
+        NEQ             : in     vl_logic;
+        NEQOut          : in     vl_logic;
+        lda             : out    vl_logic;
+        ldx1            : out    vl_logic;
+        ldx2            : out    vl_logic;
+        ldt             : out    vl_logic;
+        ldyin           : out    vl_logic;
+        ldw1            : out    vl_logic;
+        ldw2            : out    vl_logic;
+        ldb             : out    vl_logic;
+        enNEQ           : out    vl_logic;
+        initb           : out    vl_logic;
+        initw1          : out    vl_logic;
+        initw2          : out    vl_logic;
+        inityin         : out    vl_logic;
+        initNQ          : out    vl_logic;
+        onesel          : out    vl_logic;
+        twosel          : out    vl_logic;
+        xwsel           : out    vl_logic;
+        x1sel           : out    vl_logic;
+        wsel            : out    vl_logic;
+        x2sel           : out    vl_logic;
+        fbsel           : out    vl_logic;
+        secbsel         : out    vl_logic;
+        done            : out    vl_logic;
+        present         : out    vl_logic_vector(3 downto 0)
+    );
+    attribute mti_svvh_generic_type : integer;
+    attribute mti_svvh_generic_type of idle : constant is 2;
+    attribute mti_svvh_generic_type of starting : constant is 2;
+    attribute mti_svvh_generic_type of nqstate : constant is 2;
+    attribute mti_svvh_generic_type of reading : constant is 2;
+    attribute mti_svvh_generic_type of waiting : constant is 2;
+    attribute mti_svvh_generic_type of reseting : constant is 2;
+    attribute mti_svvh_generic_type of firstx : constant is 2;
+    attribute mti_svvh_generic_type of secx : constant is 2;
+    attribute mti_svvh_generic_type of addb : constant is 2;
+    attribute mti_svvh_generic_type of check : constant is 2;
+    attribute mti_svvh_generic_type of firstupt : constant is 2;
+    attribute mti_svvh_generic_type of secupt : constant is 2;
+    attribute mti_svvh_generic_type of uptb : constant is 2;
+end control;

@@ -1,0 +1,29 @@
+C:/Users/Taha/Desktop/CA5/TB.v {1 {vlog -work work C:/Users/Taha/Desktop/CA5/TB.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module TB
+
+Top level modules:
+	TB
+
+} {} {}} C:/Users/Taha/Desktop/CA5/cache_mem.v {1 {vlog -work work C:/Users/Taha/Desktop/CA5/cache_mem.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Cache
+
+Top level modules:
+	Cache
+
+} {} {}} C:/Users/Taha/Desktop/CA5/cache_cu.v {1 {vlog -work work C:/Users/Taha/Desktop/CA5/cache_cu.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module control
+
+Top level modules:
+	control
+
+} {} {}} C:/Users/Taha/Desktop/CA5/main_mem.v {1 {vlog -work work C:/Users/Taha/Desktop/CA5/main_mem.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module mainMem
+
+Top level modules:
+	mainMem
+
+} {} {}}

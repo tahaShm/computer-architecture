@@ -1,0 +1,20 @@
+`timescale 1ns/1ns
+module DataMem (clk, rst, address, writeD, memWrite, memRead, readD );
+  input [31:0] address;
+  input  signed [31:0] writeD;
+  input clk, rst,  memRead,  memWrite;
+  output signed [31:0] readD;
+  reg [31:0] dMemory [0:4095];
+  initial begin
+   
+    dMemory[1] = 10;
+    dMemory[2] = 20;
+    dMemory[3] = 30;
+    dMemory[5] = 40;
+  end
+  assign readD = dMemory[address[11:0]];
+  always@(negedge clk, posedge rst) begin
+    if(memWrite) 
+      dMemory[address[11:0]] <= writeD;
+  end
+endmodule
